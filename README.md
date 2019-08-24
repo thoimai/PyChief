@@ -1,2 +1,2 @@
 # Pychief
-awesome open-source software platform
+the cool thing is coming!
